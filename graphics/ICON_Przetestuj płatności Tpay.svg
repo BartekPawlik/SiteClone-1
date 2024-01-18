@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="36" viewBox="0 0 37 36">
+  <defs>
+    <clipPath id="clip-ICON_Przetestuj_płatności_Tpay">
+      <rect width="37" height="36"/>
+    </clipPath>
+  </defs>
+  <g id="ICON_Przetestuj_płatności_Tpay" data-name="ICON_Przetestuj płatności Tpay" clip-path="url(#clip-ICON_Przetestuj_płatności_Tpay)">
+    <rect width="37" height="36" fill="#fff"/>
+    <g id="Programming-Apps-Websites_Plugins_Modules_module-hand-puzzle-1" data-name="Programming-Apps-Websites / Plugins/Modules / module-hand-puzzle-1" transform="translate(-0.35 -1.382)">
+      <g id="Group" transform="translate(2.35 2.382)">
+        <g id="module-hand-puzzle-1" transform="translate(0 0)">
+          <path id="Shape" d="M11.012,14.8a2.692,2.692,0,1,1,3.8-3.8,2.774,2.774,0,0,1,.619.934.7.7,0,0,0,.5.423.668.668,0,0,0,.616-.173l2.1-2.1a1.358,1.358,0,0,0-.019-1.921l-2.2-2.2a2.63,2.63,0,0,0,1.211-.69A2.744,2.744,0,0,0,13.753,1.4a2.627,2.627,0,0,0-.689,1.21l-2.2-2.2A1.359,1.359,0,0,0,8.943.387L7,2.329a.66.66,0,0,0-.188.546.7.7,0,0,0,.306.5,2.763,2.763,0,0,1,.426.35,2.692,2.692,0,1,1-3.8,3.8A2.774,2.774,0,0,1,3.39,7.1a.694.694,0,0,0-.51-.3.668.668,0,0,0-.546.19L.387,8.939A1.36,1.36,0,0,0,.407,10.86l7.758,7.758a1.357,1.357,0,0,0,1.919.021l2.1-2.1a.667.667,0,0,0,.179-.617.7.7,0,0,0-.423-.5A2.809,2.809,0,0,1,11.012,14.8Z" transform="translate(14.245)" fill="none" stroke="#072653" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Shape-2" data-name="Shape" d="M0,0V14.25" transform="translate(0 18.993)" fill="none" stroke="#072653" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Shape-3" data-name="Shape" d="M0,9.5H26.125a4.75,4.75,0,0,0-4.75-4.75H15.438A4.75,4.75,0,0,0,10.688,0H0" transform="translate(0 21.368)" fill="none" stroke="#072653" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Shape-4" data-name="Shape" d="M0,0H5.938" transform="translate(9.5 26.118)" fill="none" stroke="#072653" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

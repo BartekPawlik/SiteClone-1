@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="36" viewBox="0 0 37 36">
+  <defs>
+    <clipPath id="clip-ICON_Zarejestruj_konto_Tpay">
+      <rect width="37" height="36"/>
+    </clipPath>
+  </defs>
+  <g id="ICON_Zarejestruj_konto_Tpay" data-name="ICON_Zarejestruj konto Tpay" clip-path="url(#clip-ICON_Zarejestruj_konto_Tpay)">
+    <rect width="37" height="36" fill="#fff"/>
+    <g id="Users_Geomertric-Close-Up-Multiple-Users-Actions_multiple-actions-add" data-name="Users / Geomertric-Close-Up-Multiple-Users-Actions / multiple-actions-add">
+      <g id="Group" transform="translate(1.125 1.125)">
+        <g id="Regular">
+          <circle id="Oval" cx="9" cy="9" r="9" stroke-width="2" transform="translate(15.75 15.75)" stroke="#072653" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+          <path id="Shape" d="M0,0V9" transform="translate(24.75 20.25)" fill="none" stroke="#072653" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Shape-2" data-name="Shape" d="M0,0H9" transform="translate(20.25 24.75)" fill="none" stroke="#072653" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+          <path id="Shape-3" data-name="Shape" d="M15.048,2.27A9.078,9.078,0,0,0,9,0,9,9,0,0,0,0,7.875" transform="translate(0 12.375)" fill="none" stroke="#072653" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+          <circle id="Oval-2" data-name="Oval" cx="5.063" cy="5.063" r="5.063" transform="translate(3.938)" stroke-width="2" stroke="#072653" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+          <circle id="Oval-3" data-name="Oval" cx="3.938" cy="3.938" r="3.938" transform="translate(19.688)" stroke-width="2" stroke="#072653" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" fill="none"/>
+          <path id="Shape-4" data-name="Shape" d="M10.927,3.373A6.75,6.75,0,0,0,0,2.308" transform="translate(18.548 9.002)" fill="none" stroke="#072653" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
